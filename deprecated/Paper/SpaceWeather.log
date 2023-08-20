@@ -1,0 +1,996 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.14)  4 MAR 2023 15:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SpaceWeather.tex
+(./SpaceWeather.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17> (./agujournal2019.cls
+Document Class: agujournal2019 01/14/2019
+(d:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(d:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(d:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(d:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(d:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(d:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(d:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(d:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(d:/texlive/2022/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2022/07/30 line numbers on paragraphs v5.0
+\linenopenalty=\count185
+\output=\toks17
+\linenoprevgraf=\count186
+\linenumbersep=\dimen142
+\linenumberwidth=\dimen143
+\c@linenumber=\count187
+\c@pagewiselinenumber=\count188
+\c@LN@truepage=\count189
+\c@internallinenumber=\count190
+\c@internallinenumbers=\count191
+\quotelinenumbersep=\dimen144
+\bframerule=\dimen145
+\bframesep=\dimen146
+\bframebox=\box51
+
+(d:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+\linenoamsmath@ams@eqpen=\count193
+LaTeX Info: Redefining \\ on input line 3114.
+)
+(d:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(d:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip48
+\RaggedLeftLeftskip=\skip49
+\RaggedRightLeftskip=\skip50
+\CenteringRightskip=\skip51
+\RaggedLeftRightskip=\skip52
+\RaggedRightRightskip=\skip53
+\CenteringParfillskip=\skip54
+\RaggedLeftParfillskip=\skip55
+\RaggedRightParfillskip=\skip56
+\JustifyingParfillskip=\skip57
+\CenteringParindent=\skip58
+\RaggedLeftParindent=\skip59
+\RaggedRightParindent=\skip60
+\JustifyingParindent=\skip61
+)
+(d:/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(d:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count194
+\rotFPtop=\skip62
+\rotFPbot=\skip63
+\rot@float@box=\box52
+\rot@mess@toks=\toks18
+)
+\draftskip=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip64
+\belowcaptionskip=\skip65
+\c@appendnum=\count269
+\bibindent=\dimen147
+
+(d:/texlive/2022/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count270
+\bibleftmargin=\skip66
+\bibindent=\skip67
+\bibparsep=\skip68
+\bibitemsep=\skip69
+\biblabelsep=\skip70
+))
+(d:/texlive/2022/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+
+(d:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(d:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count271
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen150
+\pgf@y=\dimen151
+\pgf@xa=\dimen152
+\pgf@ya=\dimen153
+\pgf@xb=\dimen154
+\pgf@yb=\dimen155
+\pgf@xc=\dimen156
+\pgf@yc=\dimen157
+\pgf@xd=\dimen158
+\pgf@yd=\dimen159
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count276
+ (d:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen160
+\pgfmath@count=\count279
+\pgfmath@box=\box54
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count280
+))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count281
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen179
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen183
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen184
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box58
+))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (d:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (d:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box59
+)
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
+)
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(d:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count284
+\pgfplotmarksize=\dimen189
+)
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikz@lastmovetox=\dimen194
+\tikz@lastmovetoy=\dimen195
+\tikzleveldistance=\dimen196
+\tikzsiblingdistance=\dimen197
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count285
+\tikznumberofchildren=\count286
+\tikznumberofcurrentchild=\count287
+\tikz@fig@count=\count288
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count289
+\pgfmatrixcurrentcolumn=\count290
+\pgf@matrix@numberofcolumns=\count291
+)
+\tikz@expandcount=\count292
+
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(d:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (d:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count293
+\calc@Bcount=\count294
+\calc@Adimen=\dimen198
+\calc@Bdimen=\dimen199
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count295
+\calc@Cskip=\skip73
+)
+\c@@todonotes@numberoftodonotes=\count296
+) (./trackchanges.sty
+Package: trackchanges 2009/04/22 v0.7.0 TrackChanges file 
+ (d:/texlive/2022/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks33
+\SOUL@lasttoken=\toks34
+\SOUL@cmds=\toks35
+\SOUL@buffer=\toks36
+\SOUL@token=\toks37
+\SOUL@spaceskip=\skip74
+\SOUL@ttwidth=\dimen256
+\SOUL@uldp=\dimen257
+\SOUL@ulht=\dimen258
+)
+(d:/texlive/2022/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+
+(d:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(d:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+)
+\c@userid=\count297
+\c@changenumber=\count298
+\c@storefootnote=\count299
+\c@numeditors=\count300
+\c@maxeditors=\count301
+)
+(d:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box64
+)
+(./SpaceWeather.aux)
+\openout1 = `SpaceWeather.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+(d:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen259
+\scratchbox=\box65
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen260
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks39
+) (d:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(d:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(d:/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(d:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(d:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(d:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@maskedRefs=\count309
+
+(d:/texlive/2022/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 28.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 71.
+[1{d:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (19.73785pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 Space weather is the phe-nomenon of so-lar storms and other eve
+nts in space that can have 
+ []
+
+
+Overfull \hbox (0.59894pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 an im-pact on Earth. They are a ma-jor con-cern for power grids
+ which can be severely 
+ []
+
+
+Overfull \hbox (19.01576pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 dam-aged by ge-o-mag-netic field vari-a-tions dur-ing such nat-
+u-ral phe-nom-ena. To re-duce such 
+ []
+
+
+Overfull \hbox (1.32121pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 im-pact and the pos-si-ble con-se-quences fol-low-ing, the stud
+y aims to de-ter-mine how the 
+ []
+
+
+Overfull \hbox (4.87679pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 storm's im-pact spreads across the earth dur-ing a strong event
+, the Oc-to-ber 29th, 2003 
+ []
+
+
+Overfull \hbox (11.73795pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 Hal-loween Storm. The im-pact of the Hal-loween Storm is an-a-l
+yzed by us-ing global maps 
+ []
+
+
+Overfull \hbox (6.46014pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 of ge-o-mag-netic vari-a-tions to find where it is re-ceived an
+d how it prop-a-gated. The map 
+ []
+
+
+Overfull \hbox (2.79346pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 is gen-er-ated with krig-ing In-ter-po-la-tion and cross-correl
+ation is done on spe-cific lat-i-tu- 
+ []
+
+
+Overfull \hbox (7.73802pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 di-nal dis-tri-bu-tion chains and lon-gi-tu-di-nal dis-tri-bu-t
+ion chains. The maps show that im- 
+ []
+
+
+Overfull \hbox (16.57123pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 pacts are re-ceived first in high-latitude re-gions and then pr
+op-a-gate to-ward mid- and low- 
+ []
+
+
+Overfull \hbox (8.29347pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 latitude re-gions. The re-gions of im-pact dur-ing the first st
+orm are on the mag-netic day- 
+ []
+
+
+Overfull \hbox (21.46013pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 sides while the re-gions of im-pact dur-ing the sec-ond storm a
+re on mag-netic mid-night sides. 
+ []
+
+
+Overfull \hbox (0.90456pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 The cross-correlation study shows that the mag-netic lat-i-tude
+ dis-tri-bu-tion is the dom- 
+ []
+
+
+Overfull \hbox (4.93239pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 i-nant fac-tor over the lon-gi-tude dis-tri-bu-tions. High-lati
+tude re-gions are the most in-ten- 
+ []
+
+
+Overfull \hbox (20.54352pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 sively im-pacted re-gions, such as Nor-way, Fin-land, Swe-den, 
+and Canada. The mid-latitude 
+ []
+
+
+Overfull \hbox (30.98785pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 coun-tries such as France, UK, and the US can also be im-pacted
+ dur-ing such ex-treme events. 
+ []
+
+
+Overfull \hbox (6.5157pt too wide) in paragraph at lines 126--128
+\OT1/cmr/m/n/10 Tak-ing a global view of space weather im-pacts can help us to 
+un-der-stand and mit-i-gate 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 161.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 161.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 161.
+
+LaTeX Warning: Citation `Eastwood2007' undefined on input line 163.
+
+
+Overfull \hbox (2.3489pt too wide) in paragraph at lines 163--164
+[]\OT1/cmr/m/n/10 Space weather is the phe-nomenon of so-lar storms and other e
+vents in space that 
+ []
+
+
+Overfull \hbox (6.9045pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 can have an im-pact on Earth. The main source of space weather 
+is the Sun, which can 
+ []
+
+
+Overfull \hbox (10.15454pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 pro-duce so-lar flares, coro-nal mass ejec-tions (CMEs), and hi
+gh-speed so-lar wind streams 
+ []
+
+
+Overfull \hbox (0.26566pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 that cause sig-nif-i-cant im-pacts on mod-ern so-ci-ety []?, ?)
+, af-fect-ing tech-nolo-gies such as 
+ []
+
+
+Overfull \hbox (26.54361pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 ra-dio com-mu-ni-ca-tion, GPS and GNSS sys-tems, and satel-lite
+ com-mu-ni-ca-tions, high-latitude 
+ []
+
+
+Overfull \hbox (10.37683pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 avi-a-tion, Min-ing op-er-a-tions, power grids and nat-u-ral ga
+s pipelines. The re-sults can dis- 
+ []
+
+
+Overfull \hbox (1.54346pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 rupt ra-dio com-mu-ni-ca-tions, en-dan-ger as-tro-nauts, cause 
+er-rors in GPS and GNSS sys- 
+ []
+
+
+Overfull \hbox (7.71008pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 tems, lose satel-lite com-mu-ni-ca-tions, ex-pose pi-lots and p
+as-sen-gers to higher lev-els of ra- 
+ []
+
+
+Overfull \hbox (6.51575pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 di-a-tion in high-latitude avi-a-tion, over-load power grids, a
+nd ac-cel-er-ate cor-ro-sion of nat- 
+ []
+
+
+Overfull \hbox (0.12679pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 u-ral gas pipelines. As a re-sult, space weather has sig-nif-i-
+cant im-pli-ca-tions for na-tional 
+ []
+
+
+Overfull \hbox (16.98787pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 se-cu-rity due to the ca-pa-bil-ity to dam-age crit-i-cal in-fr
+as-truc-tures, such as the elec-tric grid. 
+ []
+
+
+Overfull \hbox (16.2101pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 The US has a large space-based in-fras-truc-ture and is al-most
+ ex-clu-sively re-liant on an ag- 
+ []
+
+
+Overfull \hbox (18.87674pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 ing and stressed power grid, mak-ing it vul-ner-a-ble to the ef
+-fects of space weather. To mit- 
+ []
+
+
+Overfull \hbox (4.79344pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 i-gate these ef-fects, the US has es-tab-lished a Fed-eral Op-e
+r-at-ing Con-cept for Im-pend-ing 
+ []
+
+
+Overfull \hbox (11.48788pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 Space Weather Events, which fo-cuses on op-er-a-tional and cri-
+sis plan-ning. Space weather 
+ []
+
+
+LaTeX Warning: Citation `Kamide2006' undefined on input line 165.
+
+
+LaTeX Warning: Citation `Gonzalez1994' undefined on input line 165.
+
+
+LaTeX Warning: Citation `Dungey1961' undefined on input line 165.
+
+
+LaTeX Warning: Citation `Russel2000' undefined on input line 165.
+
+
+Overfull \hbox (15.09894pt too wide) in paragraph at lines 165--167
+[]\OT1/cmr/m/n/10 These so-lar storms can cause in-ten-sive mag-netic field var
+i-a-tions on Earth, so called 
+ []
+
+
+Overfull \hbox (12.26567pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 ge-o-mag-netic storms []?, ?)[]?, ?) when they reach Earth. A g
+e-o-mag-netic storm is de-fined 
+ []
+
+
+Overfull \hbox (11.54347pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 as an in-ter-val of time when a suf-fi-ciently in-tense and lon
+g-lasting in-ter-plan-e-tary con-vec- 
+ []
+
+
+Overfull \hbox (27.76573pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 tion elec-tric field leads, through a sub-stan-tial en-er-giza-
+tion in the magnetosphere-ionosphere 
+ []
+
+
+Overfull \hbox (18.04349pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 of the quan-ti-fy-ing storm time Dst in-dex. []?, ?). When the 
+so-lar storm reaches the Earth, 
+ []
+
+
+Overfull \hbox (7.76572pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 the in-ter-plan-e-tary mag-netic field (IMF) will con-nect with
+ the Earth's mag-netic field at 
+ []
+
+
+Overfull \hbox (18.37686pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 a dis-tance of sev-eral Earth's ra-dius and trans-port the en-e
+rgy and plasma from so-lar wind 
+ []
+
+
+Overfull \hbox (1.43237pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 into Earth's mag-ne-to-sphere and iono-sphere, then to the grou
+nd. []?, ?)[]?, ?) A south- 
+ []
+
+
+Overfull \hbox (16.18234pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 ward IMF is an es-sen-tial pre-con-di-tion for ge-o-mag-netic s
+torms. When the IMF is pri-mar- 
+ []
+
+
+Overfull \hbox (12.6545pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 re-sult in anoma-lies and dis-rup-tions to mod-ern con-ve-nienc
+es such as elec-tri-cal power dis- 
+ []
+
+
+Overfull \hbox (0.6823pt too wide) in paragraph at lines 165--167
+\OT1/cmr/m/n/10 tri-bu-tion net-works. The strongest ge-o-mag-netic storm dur-i
+ng the last three decades is 
+ []
+
+
+Overfull \hbox (12.15875pt too wide) in paragraph at lines 168--168
+\OT1/cmr/m/n/10 storm/aurora 
+ []
+
+
+Overfull \hbox (12.15875pt too wide) in paragraph at lines 168--168
+\OT1/cmr/m/n/10 storm/aurora 
+ []
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+Overfull \hbox (1.57126pt too wide) in paragraph at lines 172--173
+[]\OT1/cmr/m/n/10 Examining mag-netic field vari-a-tions caused by this great s
+torm at a global scale 
+ []
+
+
+Overfull \hbox (10.48792pt too wide) in paragraph at lines 172--173
+\OT1/cmr/m/n/10 al-lows for a bet-ter un-der-stand-ing of how dif-fer-ent re-gi
+ons of the earth are im-pacted dif- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (30.90454pt too wide) in paragraph at lines 174--175
+[]\OT1/cmr/m/n/10 In this re-search pa-per, we ex-plain the method-ol-ogy and d
+ata used in sec-tion 2; present 
+ []
+
+
+Overfull \hbox (1.79358pt too wide) in paragraph at lines 174--175
+\OT1/cmr/m/n/10 the re-sults of global maps of mag-netic field vari-a-tions, an
+d lat-i-tude and lon-gi-tude dif- 
+ []
+
+
+Overfull \hbox (1.29341pt too wide) in paragraph at lines 174--175
+\OT1/cmr/m/n/10 fer-ence of mag-netic field vari-a-tions dur-ing the storms in 
+sec-tion 3; dis-cuss the physics 
+ []
+
+
+Overfull \hbox (8.83513pt too wide) in paragraph at lines 334--335
+[]\OT1/cmr/m/n/10 AGU re-quires an Avail-abil-ity State-ment for the un-der-ly-
+ing data needed to un-der- 
+ []
+
+
+Overfull \hbox (21.51572pt too wide) in paragraph at lines 334--335
+\OT1/cmr/m/n/10 stand, eval-u-ate, and build upon the re-ported re-search at th
+e time of peer re-view and pub- 
+ []
+
+
+Overfull \hbox (5.8768pt too wide) in paragraph at lines 336--337
+[]\OT1/cmr/m/n/10 Authors should in-clude an Avail-abil-ity State-ment for the 
+soft-ware that has a sig- 
+ []
+
+
+Overfull \hbox (12.46016pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 nif-i-cant im-pact on the re-search. De-tails and tem-plates ar
+e in the Avail-abil-ity State-ment 
+ []
+
+
+Overfull \hbox (17.83366pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 sec-tion of the Data and Soft-ware for Au-thors Guid-ance: $\OT
+1/cmtt/m/n/10 https :// www [] .agu [] .org / Publish [] 
+ []
+
+
+Overfull \hbox (30.76149pt too wide) in paragraph at lines 336--337
+\OT1/cmtt/m/n/10 -with [] -AGU / Publish / Author [] -Resources / Data [] -and 
+[] -Software [] -for [] -Authors # availability$  
+ []
+
+
+Overfull \hbox (14.48792pt too wide) in paragraph at lines 338--339
+[]\OT1/cmr/m/n/10 It is im-por-tant to cite in-di-vid-ual datasets in this sec-
+tion and, and they must be in- 
+ []
+
+
+Overfull \hbox (3.57126pt too wide) in paragraph at lines 338--339
+\OT1/cmr/m/n/10 cluded in your bib-li-og-ra-phy. Please use the type field in y
+our bib-tex file to spec-ify the 
+ []
+
+
+Overfull \hbox (2.34909pt too wide) in paragraph at lines 338--339
+\OT1/cmr/m/n/10 type of data cited. Some op-tions in-clude Dataset, Soft-ware, 
+Col-lec-tion, Com-pu-ta-tion- 
+ []
+
+
+Overfull \hbox (10.45999pt too wide) in paragraph at lines 354--357
+[]\OT1/cmr/m/n/10 For phys-i-cal sam-ples, use the IGSN per-sis-tent iden-ti-fi
+er, see the In-ter-na-tional Geo 
+ []
+
+
+Overfull \hbox (9.124pt too wide) in paragraph at lines 354--357
+\OT1/cmr/m/n/10 Sam-ple Num-bers sec-tion: $\OT1/cmtt/m/n/10 https :// www [] .
+agu [] .org / Publish [] -with [] -AGU / Publish / Author [] 
+ []
+
+
+Overfull \hbox (24.65457pt too wide) in paragraph at lines 358--360
+\OT1/cmr/m/n/10 This sec-tion is op-tional. In-clude any Ac-knowl-edg-ments her
+e. The ac-knowl-edg-ments should 
+ []
+
+
+Overfull \hbox (3.21019pt too wide) in paragraph at lines 363--363
+\OT1/cmr/m/n/10 Other af-fil-i-a-tions for any au-thor that may be per-ceived a
+s hav-ing a con-flict of in-ter-est 
+ []
+
+
+Overfull \hbox (2.83511pt too wide) in paragraph at lines 364--365
+\OT1/cmr/m/n/10 It is also the ap-pro-pri-ate place to thank col-leagues and ot
+her con-trib-u-tors. AGU does 
+ []
+
+(./SpaceWeather.bbl) [3] (./SpaceWeather.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.45pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14824 strings out of 476093
+ 299613 string characters out of 5795577
+ 1864787 words of memory out of 5000000
+ 34919 multiletter control sequences out of 15000+600000
+ 516923 words of font info for 48 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 103i,9n,105p,1528b,959s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/tex
+live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2022/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr9.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+<d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texli
+ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on SpaceWeather.pdf (3 pages, 139843 bytes).
+PDF statistics:
+ 67 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

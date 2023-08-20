@@ -1,0 +1,17 @@
+359: Bz = -22.70 should see reconnection later
+373: impact showing
+386: negative in the north, 
+392: by = -61.00, -12.50, +Bz stops reconnection, repels, middle event
+406: extreme event, potentially even
+413: sudden positive at 100, 70
+419: Australia
+
+
+468: moving east to west
++ BZ lead to + impact
+strong energy transfer at mlt noon, bottom right, 140, -40
+
+
+bz+strong stops reconnections
+
+516: potential connections at the bottom right, might not be visible due to interplotation

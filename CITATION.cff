@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hu"
+  given-names: "Hongyi"
+  orcid: "https://orcid.org/0009-0003-7240-0513"
+title: "Investigating the Space Weather Impact of the 2003 Halloween Geomagnetic Storm by the Ground Magnetic Field Variations: a Global View"
+version: 1.0.0
+doi: 10.5281/zenodo.7830370
+date-released: 2023-04-14
+url: "https://github.com/PythonOrC/SpaceWeather"

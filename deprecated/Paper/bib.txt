@@ -1,0 +1,21 @@
+Eastwood, J.P., Biffis, E., Hapgood, M.A., Green, L., Bisi, M.M., Bentley, R.D., Wicks, R., McKinnell, L.-.-A., Gibbs, M. and Burnett, C. (2017), The Economic Impact of Space Weather: Where Do We Stand?. Risk Analysis, 37: 206-218. https://doi.org/10.1111/risa.12765
+
+Kamide, Y. (2006), What is an “Intense Geomagnetic Storm"?. Space Weather, 4:. https://doi.org/10.1029/2006SW000248
+
+Berger, T. E., Holzinger, M. J., Sutton, E. K., & Thayer, J. P. (2020). Flying through uncertainty. Space Weather, 18, e2019SW002373. https://doi.org/10.1029/2019SW002373
+
+Gonzalez, W. D., Joselyn, J. A., Kamide, Y., Kroehl, H. W., Rostoker, G., Tsurutani, B. T., and Vasyliunas, V. M. (1994), What is a geomagnetic storm?, J. Geophys. Res., 99( A4), 5771– 5792, doi:10.1029/93JA02867.
+
+Bracewell, R. "Pentagram Notation for Cross Correlation." The Fourier Transform and Its Applications. New York: McGraw-Hill, pp. 46 and 243, 1965.
+
+Papoulis, A. The Fourier Integral and Its Applications. New York: McGraw-Hill, pp. 244-245 and 252-253, 1962.
+
+A. W. Hood, E. R. Priest, Kink instability of solar coronal loops as the cause of solar flares. Sol. Phys. 64, 303–321 (1979).
+
+C. J. Schrijver, Socio-economic hazards and impacts of space weather: The important range between mild and extreme. Space Weather 13, 524–528 (2015).
+
+K. Shibata, T. Magara, Solar flares: Magnetohydrodynamic processes. Living Rev. Sol. Phys. 8, 6 (2011).
+
+K. Kusano, Y. Bamba, T. T. Yamamoto, Y. Iida, S. Toriumi, A. Asai, Magnetic field structures triggering solar flares and coronal mass ejections. Astrophys. J. 760, 31 (2012).
+
+K. Kusano, T. Maeshiro, T. Yokoyama, T. Sakurai, The trigger mechanism of solar flares in a coronal arcade with reversed magnetic shear. Astrophys. J. 610, 537–549 (2004).

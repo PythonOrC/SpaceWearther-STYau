@@ -1,0 +1,15 @@
+171058: neg on both pole
+1060: neg on top pos on bottom
+1063: 150,-80 - neg-pos
+1066: 50,-60, neg-pos
+1091: 180,-90, neg-pos
+1100: storm fading although Bz=-20
+1153: no significant event until 1135
+1143: -60 ~ -70 positive = neg
+1155: increasing intensity in Russia
+1166: 100~150, 80, left pos right neg
+1178：top right neg-pos, Australia - pos
+
+
+
+overall: noon is at ~ -100 but why are events still in 100

@@ -1,0 +1,502 @@
+@Inbook{Shiokawa2023,
+author="Shiokawa, Kazuo",
+editor="Kusano, Kanya",
+title="Introduction of Space Weather Research on Magnetosphere and Ionosphere of the Earth",
+bookTitle="Solar-Terrestrial Environmental Prediction",
+year="2023",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="95--113",
+abstract="The magnetosphere and ionosphere are the space around the Earth into which satellites and space stations have been launched for precise positioning, long-distance communication, and various space experiments. Therefore, the space weather in this area has the most impact on human activities. In the space around the Earth, the geomagnetic field expands to form the magnetosphere, and the atmosphere of the Earth is partly ionized to produce a plasma, forming the ionosphere. Various space weather events occur in this region. Variations in the X-rays and ultraviolet emissions from the Sun and the ionospheric disturbances caused by atmospheric waves from the lower atmosphere induce positioning and communication problems and orbital changes in satellites. Variations in the solar wind plasma flow associated with flares and coronal holes on the solar surface can cause magnetic storms in the magnetosphere. These magnetic storms accelerate the radiation belt electrons around the Earth, resulting in satellite anomalies. Geomagnetically induced currents (GICs) are caused to flow underground by the increased current flow in the magnetosphere and the ionosphere, affecting ground power grids. In this chapter, as an introduction to the following chapters, we briefly introduce the structures of the magnetosphere and the ionosphere and their variations and measurement techniques.",
+isbn="978-981-19-7765-7",
+doi="10.1007/978-981-19-7765-7_4",
+url="https://doi.org/10.1007/978-981-19-7765-7_4"
+}
+
+
+@article{https://doi.org/10.1029/2019SW002373,
+author = {Berger, T. E. and Holzinger, M. J. and Sutton, E. K. and Thayer, J. P.},
+title = {Flying Through Uncertainty},
+journal = {Space Weather},
+volume = {18},
+number = {1},
+pages = {e2019SW002373},
+keywords = {Satellite drag, Low Earth Orbit, Space Traffic Management},
+doi = {https://doi.org/10.1029/2019SW002373},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019SW002373},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019SW002373},
+note = {e2019SW002373 2019SW002373},
+abstract = {Abstract Space weather is the main source of uncertainty in the position of all objects in low Earth orbit (LEO) below about 1,000 km. The main impact is strong variation in the neutral density of the thermosphere as it responds to radiative inputs from the Sun in the extreme ultraviolet wavelength range, energetic particle precipitation in the high-latitude auroral zones, and global-scale electrical currents generated during geomagnetic storms. Waves and instabilities from the lower atmosphere can also influence thermospheric density in complex ways. The variation in neutral density leads to variable drag forces on satellites flying through the thermosphere, which in turn causes orbital track changes. We currently lack the ability to accurately model and predict the neutral density changes in the thermosphere in response to space weather inputs. Operational empirical models of thermospheric density are inaccurate during space weather events, and mandate that LEO orbital tracks carry large “error ellipsoids” around all objects to account for positional uncertainty. This leads to many more “conjunction” warnings than necessary as large error ellipsoids are frequently calculated to intersect in orbit. As the LEO domain becomes more crowded with the advent of commercial “megaconstellations” we face a growing challenge to reduce orbital uncertainties by developing whole atmosphere models to enable timely and accurate forecasts of thermospheric conditions. We recommend that researchers, forecasters, and policy makers coordinate to ensure that space weather research and forecasting is tightly integrated into upcoming changes to the operational Space Traffic Management system.},
+year = {2020}
+}
+
+@ARTICLE{2000JGR...10523153F,
+       author = {{Forbes}, T.~G.},
+        title = "{A review on the genesis of coronal mass ejections}",
+      journal = {\jgr},
+     keywords = {Planetology: Comets and Small Bodies: Plasma and MHD instabilities, Solar Physics, Astrophysics, and Astronomy: Coronal mass ejections, and Astronomy: Flares, and Astronomy: Prominence eruptions},
+         year = 2000,
+        month = oct,
+       volume = {105},
+       number = {A10},
+        pages = {23153-23166},
+          doi = {10.1029/2000JA000005},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2000JGR...10523153F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{https://doi.org/10.1111/risa.12765,
+author = {Eastwood, J. P. and Biffis, E. and Hapgood, M. A. and Green, L. and Bisi, M. M. and Bentley, R. D. and Wicks, R. and McKinnell, L.-A. and Gibbs, M. and Burnett, C.},
+title = {The Economic Impact of Space Weather: Where Do We Stand?},
+journal = {Risk Analysis},
+volume = {37},
+number = {2},
+pages = {206-218},
+keywords = {Geomagnetic storms, power grids, space weather},
+doi = {https://doi.org/10.1111/risa.12765},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12765},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.12765},
+abstract = {Space weather describes the way in which the Sun, and conditions in space more generally, impact human activity and technology both in space and on the ground. It is now well understood that space weather represents a significant threat to infrastructure resilience, and is a source of risk that is wide-ranging in its impact and the pathways by which this impact may occur. Although space weather is growing rapidly as a field, work rigorously assessing the overall economic cost of space weather appears to be in its infancy. Here, we provide an initial literature review to gather and assess the quality of any published assessments of space weather impacts and socioeconomic studies. Generally speaking, there is a good volume of scientific peer-reviewed literature detailing the likelihood and statistics of different types of space weather phenomena. These phenomena all typically exhibit “power-law” behavior in their severity. The literature on documented impacts is not as extensive, with many case studies, but few statistical studies. The literature on the economic impacts of space weather is rather sparse and not as well developed when compared to the other sections, most probably due to the somewhat limited data that are available from end-users. The major risk is attached to power distribution systems and there is disagreement as to the severity of the technological footprint. This strongly controls the economic impact. Consequently, urgent work is required to better quantify the risk of future space weather events.},
+year = {2017}
+}
+
+@article{https://doi.org/10.1029/2019SW002373,
+author = {Berger, T. E. and Holzinger, M. J. and Sutton, E. K. and Thayer, J. P.},
+title = {Flying Through Uncertainty},
+journal = {Space Weather},
+volume = {18},
+number = {1},
+pages = {e2019SW002373},
+keywords = {Satellite drag, Low Earth Orbit, Space Traffic Management},
+doi = {https://doi.org/10.1029/2019SW002373},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019SW002373},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019SW002373},
+note = {e2019SW002373 2019SW002373},
+abstract = {Abstract Space weather is the main source of uncertainty in the position of all objects in low Earth orbit (LEO) below about 1,000 km. The main impact is strong variation in the neutral density of the thermosphere as it responds to radiative inputs from the Sun in the extreme ultraviolet wavelength range, energetic particle precipitation in the high-latitude auroral zones, and global-scale electrical currents generated during geomagnetic storms. Waves and instabilities from the lower atmosphere can also influence thermospheric density in complex ways. The variation in neutral density leads to variable drag forces on satellites flying through the thermosphere, which in turn causes orbital track changes. We currently lack the ability to accurately model and predict the neutral density changes in the thermosphere in response to space weather inputs. Operational empirical models of thermospheric density are inaccurate during space weather events, and mandate that LEO orbital tracks carry large “error ellipsoids” around all objects to account for positional uncertainty. This leads to many more “conjunction” warnings than necessary as large error ellipsoids are frequently calculated to intersect in orbit. As the LEO domain becomes more crowded with the advent of commercial “megaconstellations” we face a growing challenge to reduce orbital uncertainties by developing whole atmosphere models to enable timely and accurate forecasts of thermospheric conditions. We recommend that researchers, forecasters, and policy makers coordinate to ensure that space weather research and forecasting is tightly integrated into upcoming changes to the operational Space Traffic Management system.},
+year = {2020}
+}
+@article{https://doi.org/10.1029/93JA02867,
+author = {Gonzalez, W. D. and Joselyn, J. A. and Kamide, Y. and Kroehl, H. W. and Rostoker, G. and Tsurutani, B. T. and Vasyliunas, V. M.},
+title = {What is a geomagnetic storm?},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {99},
+number = {A4},
+pages = {5771-5792},
+doi = {https://doi.org/10.1029/93JA02867},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JA02867},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/93JA02867},
+abstract = {After a brief review of magnetospheric and interplanetary phenomena for intervals with enhanced solar wind-magnetosphere interaction, an attempt is made to define a geomagnetic storm as an interval of time when a sufficiently intense and long-lasting interplanetary convection electric field leads, through a substantial energization in the magnetosphere-ionosphere system, to an intensified ring current sufficiently strong to exceed some key threshold of the quantifying storm time Dst index. The associated storm/substorm relationship problem is also reviewed. Although the physics of this relationship does not seem to be fully understood at this time, basic and fairly well established mechanisms of this relationship are presented and discussed. Finally, toward the advancement of geomagnetic storm research, some recommendations are given concerning future improvements in monitoring existing geomagnetic indices as well as the solar wind near Earth.},
+year = {1994}
+}
+@book{bracewell_1999, place={Boston, MA}, title={The Fourier transform and its applications}, publisher={McGraw-Hill}, author={Bracewell, Ronald N.}, year={1999}} 
+
+
+@article{hood_kink_1979,
+	title = {Kink instability of solar coronal loops as the cause of solar flares},
+	volume = {64},
+	issn = {1573-093X},
+	url = {https://doi.org/10.1007/BF00151441},
+	doi = {10.1007/BF00151441},
+	abstract = {Solar coronal loops are observed to be remarkably stable structures. A magnetohydrodynamic stability analysis of a model loop by the energy method suggests that the main reason for stability is the fact that the ends of the loop are anchored in the dense photosphere. In addition to such line-tying, the effect of a radial pressure gradient is incorporated in the analysis.},
+	number = {2},
+	journal = {Solar Physics},
+	author = {Hood, A. W. and Priest, E. R.},
+	month = dec,
+	year = {1979},
+	pages = {303--321},
+}
+@article{https://doi.org/10.1002/2015SW001252,
+author = {Schrijver, Carolus J.},
+title = {Socio-Economic Hazards and Impacts of Space Weather: The Important Range Between Mild and Extreme},
+journal = {Space Weather},
+volume = {13},
+number = {9},
+pages = {524-528},
+keywords = {space weather},
+doi = {https://doi.org/10.1002/2015SW001252},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015SW001252},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015SW001252},
+abstract = {Abstract Society needs to prepare for more severe space weather than it has experienced in the modern technological era. To enable that we must both quantify extreme-event characteristics and analyze impacts of lesser events that are frequent yet severe enough to be informative. Exploratory studies suggest that economic impacts of a century-level space hurricane and of a century of lesser space weather “gales” may turn out to be of the same order of magnitude. The economic benefits of effective mitigation of the impacts of space gales may substantially exceed the required investments, even as these investments provide valuable information to prepare for the worst possible storms.},
+year = {2015}
+}
+@article{WANG2014052001,
+title = {Magnetohydrodynamic process in solar activity},
+journal = {Theoretical and Applied Mechanics Letters},
+volume = {4},
+number = {5},
+pages = {052001},
+year = {2014},
+issn = {2095-0349},
+doi = {https://doi.org/10.1063/2.1405201},
+url = {https://www.sciencedirect.com/science/article/pii/S2095034915303457},
+author = {Jingxiu Wang and Jie Jiang},
+keywords = {solar magnetic field, solar activity, magnetohydrodynamics, numerical simulation},
+abstract = {Magnetohydrodynamics is one of the major disciplines in solar physics. Vigorous magnetohydrodynamic process is taking place in the solar convection zone and atmosphere. It controls the generating and structuring of the solar magnetic fields, causes the accumulation of magnetic non-potential energy in the solar atmosphere and triggers the explosive magnetic energy release, manifested as violent solar flares and coronal mass ejections. Nowadays detailed observations in solar astrophysics from space and on the ground urge a great need for the studies of magnetohydrodynamics and plasma physics to achieve better understanding of the mechanism or mechanisms of solar activity. On the other hand, the spectacular solar activity always serves as a great laboratory of magnetohydrodynamics. In this article, we reviewed a few key unresolved problems in solar activity studies and discussed the relevant issues in solar magnetohydrodynamics.}
+}
+@article{Kusano_2012,
+	doi = {10.1088/0004-637x/760/1/31},
+  
+	url = {https://doi.org/10.1088%2F0004-637x%2F760%2F1%2F31},
+  
+	year = 2012,
+	month = {oct},
+  
+	publisher = {American Astronomical Society},
+  
+	volume = {760},
+  
+	number = {1},
+  
+	pages = {31},
+  
+	author = {K. Kusano and Y. Bamba and T. T. Yamamoto and Y. Iida and S. Toriumi and A. Asai},
+  
+	title = {{MAGNETIC} {FIELD} {STRUCTURES} {TRIGGERING} {SOLAR} {FLARES} {AND} {CORONAL} {MASS} {EJECTIONS}
+},
+  
+	journal = {The Astrophysical Journal}
+}
+@article{Kusano2004TheTM,
+  title={The Trigger Mechanism of Solar Flares in a Coronal Arcade with Reversed Magnetic Shear},
+  author={Kanya Kusano and T. Maeshiro and Takaaki Yokoyama and T. Sakurai},
+  journal={The Astrophysical Journal},
+  year={2004},
+  volume={610},
+  pages={537 - 549}
+}
+@article{Forbes2000ARO,
+  title={A review on the genesis of coronal mass ejections},
+  author={Terry G. Forbes},
+  journal={Journal of Geophysical Research},
+  year={2000},
+  volume={105},
+  pages={23153-23165}
+}
+@article{Mcallister1996ALP,
+  title={A large polar crown coronal mass ejection and a “problem” goemagnetic storm: April 14–23, 1994},
+  author={A. H. Mcallister and Murray Dryer and Patrick S. Mclntosh and Howard J. Singer and Loretta A. Weiss},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={1996},
+  volume={101},
+  pages={13497 - 13515}
+}
+@article{Webb2000RelationshipOH,
+  title={Relationship of halo coronal mass ejections, magnetic clouds, and magnetic storms},
+  author={David F. Webb and Edward W. Cliver and Nancy U. Crooker and Orville Chris St. Cyr and Barbara J. Thompson},
+  journal={Journal of Geophysical Research},
+  year={2000},
+  volume={105},
+  pages={7491-7508}
+}
+@article{Hathaway2006GeomagneticAI,
+  title={Geomagnetic activity indicates large amplitude for sunspot cycle 24},
+  author={David H. Hathaway and Robert M. Wilson},
+  journal={Geophysical Research Letters},
+  year={2006},
+  volume={33}
+}
+@article{Xie2008EffectsOS,
+  title={Effects of solar wind dynamic pressure and preconditioning on large geomagnetic storms},
+  author={Hong Xie and Nat Gopalswamy and O. Chris St. Cyr and S. Yashiro},
+  journal={Geophysical Research Letters},
+  year={2008},
+  volume={35}
+}
+
+@article{noauthor_federal_2019,
+	title = {Federal {Operating} {Concept} for {Impending} {Space} {Weather} {Events}},
+	url = {https://www.fema.gov/sites/default/files/2020-07/fema_incident-annex_space-weather.pdf},
+	language = {en},
+	month = may,
+	year = {2019},
+}
+@BOOK{NAP12507,  author    = "National Research Council",  title     = "Severe Space Weather Events: Understanding Societal and Economic Impacts: A Workshop Report",  isbn      = "978-0-309-12769-1",  doi       = "10.17226/12507",  abstract  ="The adverse effects of extreme space weather on modern technology--power grid outages, high-frequency communication blackouts, spacecraft anomalies--are well known and well documented, and the physical processes underlying space weather are also generally well understood. Less well documented and understood, however, are the potential economic and societal impacts of the disruption of critical technological systems by severe space weather. \n\nAs a first step toward determining the socioeconomic impacts of extreme space weather events and addressing the questions of space weather risk assessment and management, a public workshop was held in May 2008. The workshop brought together representatives of industry, the government, and academia to consider both direct and collateral effects of severe space weather events, the current state of the space weather services infrastructure in the United States, the needs of users of space weather data and services, and the ramifications of future technological developments for contemporary society's vulnerability to space weather. The workshop concluded with a discussion of un- or underexplored topics that would yield the greatest benefits in space weather risk management. \n ",  url       = "https://nap.nationalacademies.org/catalog/12507/severe-space-weather-events-understanding-societal-and-economic-impacts-a",
+  year      =2008,
+  publisher = "The National Academies Press",
+  address   = "Washington, DC"
+}
+
+
+@article{noauthor_national_2019,
+	title = {National {Space} {Weather} {Strategy} and {Action} {Plan}},
+	url = {https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/03/National-Space-Weather-Strategy-and-Action-Plan-2019.pdf},
+	language = {en},
+	month = mar,
+	year = {2019},
+}
+@misc{akasofu, title={Exploring the secrets of the Aurora}, url={https://link.springer.com/book/10.1007/0-306-47970-2}, journal={SpringerLink}, publisher={Springer Netherlands}, author={Akasofu, Syun-Ichi},} 
+@Article{angeo-22-1267-2004,
+AUTHOR = {Le, G. and Russell, C. T. and Takahashi, K.},
+TITLE = {Morphology of the ring current derived from magnetic field observations},
+JOURNAL = {Annales Geophysicae},
+VOLUME = {22},
+YEAR = {2004},
+NUMBER = {4},
+PAGES = {1267--1295},
+URL = {https://angeo.copernicus.org/articles/22/1267/2004/},
+DOI = {10.5194/angeo-22-1267-2004}
+}
+@inproceedings{Baumjohann1996BasicSP,
+  title={Basic Space Plasma Physics},
+  author={Wolfgang Baumjohann and Rudolf A. Treumann},
+  year={1996}
+}
+@article{https://doi.org/10.1029/93JA01896,
+author = {Gosling, J. T.},
+title = {The solar flare myth},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {98},
+number = {A11},
+pages = {18937-18949},
+doi = {https://doi.org/10.1029/93JA01896},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JA01896},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/93JA01896},
+abstract = {Many years of research have demonstrated that large, nonrecurrent geomagnetic storms, shock wave disturbances in the solar wind, and energetic particle events in interplanetary space often occur in close association with large solar flares. This result has led to a paradigm of cause and effect - that large solar flares are the fundamental cause of these events in the near-Earth space environment. This paradigm, which I call “the solar flare myth,” dominates the popular perception of the relationship between solar activity and interplanetary and geomagnetic events and has provided much of the pragmatic rationale for the study of the solar flare phenomenon. Yet there is good evidence that this paradigm is wrong and that flares do not generally play a central role in producing major transient disturbances in the near-Earth space environment. In this paper I outline a different paradigm of cause and effect that removes solar flares from their central position in the chain of events leading from the Sun to near-Earth space. Instead, this central role is given to events known as coronal mass ejections.},
+year = {1993}
+}
+@article{https://doi.org/10.1029/2004GL021639,
+author = {Gopalswamy, N. and Yashiro, S. and Michalek, G. and Xie, H. and Lepping, R. P. and Howard, R. A.},
+title = {Solar source of the largest geomagnetic storm of cycle 23},
+journal = {Geophysical Research Letters},
+volume = {32},
+number = {12},
+pages = {},
+doi = {https://doi.org/10.1029/2004GL021639},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2004GL021639},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2004GL021639},
+abstract = {The largest geomagnetic storm of solar cycle 23 occurred on 2003 November 20 with a Dst index of −472 nT, due to a coronal mass ejection (CME) from active region 0501. The CME near the Sun had a sky-plane speed of ∼1660 km/s, but the associated magnetic cloud (MC) arrived with a speed of only 730 km/s. The MC at 1 AU (ACE Observations) had a high magnetic field (∼56 nT) and high inclination to the ecliptic plane. The southward component of the MC's magnetic field was made up almost entirely of its axial field because of its east-south-west (ESW) chirality. We suggest that the southward pointing strong axial field of the MC reconnected with Earth's front-side magnetic field, resulting in the largest storm of the solar cycle 23.},
+year = {2005}
+}
+@article{https://doi.org/10.1029/2006GL028879,
+author = {Gonzalez, W. D. and Echer, E. and Clua-Gonzalez, A. L. and Tsurutani, B. T.},
+title = {Interplanetary origin of intense geomagnetic storms (Dst < −100 nT) during solar cycle 23},
+journal = {Geophysical Research Letters},
+volume = {34},
+number = {6},
+pages = {},
+keywords = {geomagnetic storms, solar cycle, space weather},
+doi = {https://doi.org/10.1029/2006GL028879},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006GL028879},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2006GL028879},
+abstract = {We study the interplanetary causes of intense geomagnetic storms (Dst < −100 nT) that occurred during solar cycle 23 (1997–2005). It was found that the most common interplanetary structures leading to the development of an intense storm were: magnetic clouds, sheath fields, sheath fields followed by a magnetic cloud and corotating interaction regions leading high speed streams. However, the relative importance of each of those driving structures was found to vary with the solar cycle phase. We divide the cycle in three phases (rising, maximum and declining) and explain the differences. We also discuss about the geoeffectiveness of each of the four main interplanetary driving structures.},
+year = {2007}
+}
+@article{https://doi.org/10.1029/91JA00316,
+author = {Gosling, J. T. and McComas, D. J. and Phillips, J. L. and Bame, S. J.},
+title = {Geomagnetic activity associated with earth passage of interplanetary shock disturbances and coronal mass ejections},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {96},
+number = {A5},
+pages = {7831-7839},
+doi = {https://doi.org/10.1029/91JA00316},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JA00316},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/91JA00316},
+abstract = {Coronal mass ejection events (CMEs) are important occasional sources of plasma and magnetic field in the solar wind at 1 AU, accounting for approximately 10\% of all solar wind measurements in the ecliptic plane during the last solar activity maximum. Previous work indicates that virtually all transient shock wave disturbances in the solar wind are driven by fast CMEs. Using a recently appreciated capability for distinguishing CMEs in solar wind data in the form of counterstreaming solar wind electron events, this paper explores the overall effectiveness of shock wave disturbances and CMEs in general in stimulating geomagnetic activity. The study is confined to the interval from mid-August 1978 through mid-October 1982, spanning the last solar activity maximum, when ISEE 3 was in orbit about the L1 Lagrange point 220 Re upstream from Earth. We find that all but one of the 37 largest geomagnetic storms in that era were associated with Earth passage of CMEs and/or shock disturbances, with the large majority of these storms (27 out of 37) being associated with interplanetary events where Earth encountered both a shock and the CME driving the shock (shock/CME events). Although CMEs and/or shock disturbances were increasingly the cause of geomagnetic activity as the level of geomagnetic activity increased, many smaller geomagnetic disturbances were unrelated to these events. Further, approximately half of all CMEs and half of all shock disturbances encountered by Earth did not produce any substantial geomagnetic activity as measured by the planetary geomagnetic index Kp. The geomagnetic effectiveness of Earth directed CMEs and shock wave disturbances was directly related to the flow speed, the magnetic field magnitude, and the strength of the southward (GSM) field component associated with the events. The initial speed of a CME close to the Sun appears to be the most crucial factor in determining if an earthward directed event will be effective in exciting a large geomagnetic disturbance.},
+year = {1991}
+}
+@article{https://doi.org/10.1029/2001GL013597,
+author = {Srivastava, Nandita and Venkatakrishnan, P.},
+title = {Relationship between CME Speed and Geomagnetic Storm Intensity},
+journal = {Geophysical Research Letters},
+volume = {29},
+number = {9},
+pages = {1-1-1-4},
+keywords = {Dummy},
+doi = {https://doi.org/10.1029/2001GL013597},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2001GL013597},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2001GL013597},
+abstract = {In this paper, we discuss the solar origin and interplanetary consequences of the coronal mass ejection of March 29, 2001 that was responsible for the most intense geomagnetic storm (DST ∼ −377 nT) of the current solar cycle to date. A comparison of the CME of March 29, 2001, with a set of geo-effective halo CMEs associated with X-class flares showed that the strength of the geomagnetic storm at the earth is well correlated with the speed of the halo. Our study shows that the fast ejection is responsible for building up the ram pressure at the earth's magnetosphere. This may serve as a useful tool in the forecasting of intense geomagnetic storms.},
+year = {2002},
+}
+
+article{https://doi.org/10.1029/JA080i031p04204,
+author = {Burton, R. K. and McPherron, R. L. and Russell, C. T.},
+title = {An empirical relationship between interplanetary conditions and Dst},
+journal = {Journal of Geophysical Research (1896-1977)},
+volume = {80},
+number = {31},
+pages = {4204-4214},
+doi = {https://doi.org/10.1029/JA080i031p04204},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA080i031p04204},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JA080i031p04204},
+abstract = {An algorithm is presented for predicting the ground-based Dst index solely from a knowledge of the velocity and density of the solar wind and the north-south solar magnetospheric component of the interplanetary magnetic field. The three key elements of this model are an adjustment for solar wind dynamic pressure, an injection rate linearly proportional to the dawn-to-dusk component of the interplanetary electric field which is zero for electric fields below 0.5 mV m−1, and an exponential decay rate of the ring current with an e folding time of 7.7 hours. The algorithm is used to predict the Dst signature of seven geomagnetic storm intervals in 1967 and 1968. In addition to being quite successful, considering the simplicity of the model, the algorithm pinpoints the causes of various types of storm behavior. A main phase is initiated whenever the dawn-to-dusk solar magnetospheric component of the interplanetary electric field becomes large and positive. It is preceded by an initial phase of increased Dst if the solar wind dynamic pressure increases suddenly prior to the main phase. The recovery phase is initiated when the injection rate governed by the interplanetary electric field drops below the ring current decay rate associated with the ring current strength built up during the main phase. Variable recovery rates are generally due to additional injection during the recovery phase. This one algorithm accounts for magnetospheric behavior at quiet and at disturbed times and seems capable of predicting the behavior of Dst during even the largest of storms.},
+year = {1975}
+}
+@article{https://doi.org/10.1002/2016GL068664,
+author = {Love, Jeffrey J. and Coïsson, Pierdavide and Pulkkinen, Antti},
+title = {Global statistical maps of extreme-event magnetic observatory 1 min first differences in horizontal intensity},
+journal = {Geophysical Research Letters},
+volume = {43},
+number = {9},
+pages = {4126-4135},
+keywords = {geomagnetism, magnetic storms, natural hazards, space weather, extreme events, statistical maps},
+doi = {https://doi.org/10.1002/2016GL068664},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016GL068664},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016GL068664},
+abstract = {Abstract Analysis is made of the long-term statistics of three different measures of ground level, storm time geomagnetic activity: instantaneous 1 min first differences in horizontal intensity ΔBh, the root-mean-square of 10 consecutive 1 min differences S, and the ramp change R over 10 min. Geomagnetic latitude maps of the cumulative exceedances of these three quantities are constructed, giving the threshold (nT/min) for which activity within a 24 h period can be expected to occur once per year, decade, and century. Specifically, at geomagnetic 55°, we estimate once-per-century ΔBh, S, and R exceedances and a site-to-site, proportional, 1 standard deviation range [1 σ, lower and upper] to be, respectively, 1000, [690, 1450]; 500, [350, 720]; and 200, [140, 280] nT/min. At 40°, we estimate once-per-century ΔBh, S, and R exceedances and 1 σ values to be 200, [140, 290]; 100, [70, 140]; and 40, [30, 60] nT/min.},
+year = {2016}
+}
+@article{https://doi.org/10.1002/2017GL076042,
+author = {Love, Jeffrey J. and Lucas, Greg M. and Kelbert, Anna and Bedrosian, Paul A.},
+title = {Geoelectric Hazard Maps for the Mid-Atlantic United States: 100 Year Extreme Values and the 1989 Magnetic Storm},
+journal = {Geophysical Research Letters},
+volume = {45},
+number = {1},
+pages = {5-14},
+keywords = {geoelectric hazard maps, space weather, geomagnetically induced currents, magnetotellurics, solid earth impedance, geomagnetic monitoring},
+doi = {https://doi.org/10.1002/2017GL076042},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL076042},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017GL076042},
+abstract = {Abstract Maps of extreme value geoelectric field amplitude are constructed for the Mid-Atlantic United States, a region with high population density and critically important power grid infrastructure. Geoelectric field time series for the years 1983–2014 are estimated by convolving Earth surface impedances obtained from 61 magnetotelluric survey sites across the Mid-Atlantic with historical 1 min (2 min Nyquist) measurements of geomagnetic variation obtained from a nearby observatory. Statistical models are fitted to the maximum geoelectric amplitudes occurring during magnetic storms, and extrapolations made to estimate threshold amplitudes only exceeded, on average, once per century. For the Mid-Atlantic region, 100 year geoelectric exceedance amplitudes have a range of almost 3 orders of magnitude (from 0.04 V/km at a site in southern Pennsylvania to 24.29 V/km at a site in central Virginia), and they have significant geographic granularity, all of which is due to site-to-site differences in magnetotelluric impedance. Maps of these 100 year exceedance amplitudes resemble those of the estimated geoelectric amplitudes attained during the March 1989 magnetic storm, and, in that sense, the March 1989 storm resembles what might be loosely called a “100 year” event. The geoelectric hazard maps reported here stand in stark contrast with the 100 year geoelectric benchmarks developed for the North American Electric Reliability Corporation.},
+year = {2018}
+}
+@article{https://doi.org/10.1029/2012GL050859,
+author = {Sergeev, V. A. and Angelopoulos, V. and Nakamura, R.},
+title = {Recent advances in understanding substorm dynamics},
+journal = {Geophysical Research Letters},
+volume = {39},
+number = {5},
+pages = {},
+keywords = {auroral breakup, flow burst, magnetospheric substorm, plasma sheet},
+doi = {https://doi.org/10.1029/2012GL050859},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2012GL050859},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2012GL050859},
+abstract = {Magnetospheric substorms are elemental processes of solar wind energy storage and explosive release in Earth's magnetosphere. They encompass fundamental plasma physics questions, are ubiquitous during all types of geomagnetic conditions, contribute significantly to magnetic storms, and are a key element of Space Weather applications. This paper reviews recent major advances enabled by modern multi-point space-based and ground-based platforms. These datasets have also empowered a system-wide perspective and advanced modeling. We particularly highlight progress in two areas: (1) substorm onset timing and evidence for current sheet preconditioning and destabilization and (2) fast flows and dipolarizations, including the role of entropy in magnetotail plasma propagation.},
+year = {2012}
+}
+@article{https://doi.org/10.1029/1999JA000275,
+
+title = {Relationship of halo coronal mass ejections, magnetic clouds, and magnetic storms},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {105},
+number = {A4},
+pages = {7491-7508},
+doi = {https://doi.org/10.1029/1999JA000275},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JA000275},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999JA000275},
+abstract = {Halo coronal mass ejections (CMEs) had been rarely reported in coronagraph observations of the Sun before the Solar and Heliospheric Observatory (SOHO) mission. Since mid-1996, however, the SOHO Large Angle Spectrometric Coronagraph (LASCO) instruments have observed many halo or partial-halo CMEs. A halo CME, especially when associated with solar activity near sun center, is important for space weather concerns because it suggests the launch of a potentially geoeffective disturbance toward Earth. During the post-solar minimum period from December 1996 to June 1997, we found that all six halo CMEs that were likely Earthward-directed were associated with shocks, magnetic clouds, and moderate geomagnetic storms at Earth 3–5 days later. The results imply that magnetic cloud-like structures are a general characteristic of CMEs. Most of the storms were driven by strong, sustained southward fields either in the magnetic clouds, in the post-shock region, or both. We discuss the characteristics of the halo events observed during this period, their associated signatures near the solar surface, and their usefulness as predictors of space weather at Earth.},
+year = {2000}
+}
+
+@article{https://doi.org/10.1029/98JA01426,
+author = {Kamide, Y. and Baumjohann, W. and Daglis, I. A. and Gonzalez, W. D. and Grande, M. and Joselyn, J. A. and McPherron, R. L. and Phillips, J. L. and Reeves, E. G. D. and Rostoker, G. and Sharma, A. S. and Singer, H. J. and Tsurutani, B. T. and Vasyliunas, V. M.},
+title = {Current understanding of magnetic storms: Storm-substorm relationships},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {103},
+number = {A8},
+pages = {17705-17728},
+doi = {https://doi.org/10.1029/98JA01426},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JA01426},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/98JA01426},
+abstract = {This paper attempts to summarize the current understanding of the storm/substorm relationship by clearing up a considerable amount of controversy and by addressing the question of how solar wind energy is deposited into and is dissipated in the constituent elements that are critical to magnetospheric and ionospheric processes during magnetic storms. (1) Four mechanisms are identified and discussed as the primary causes of enhanced electric fields in the interplanetary medium responsible for geomagnetic storms. It is pointed out that in reality, these four mechanisms, which are not mutually exclusive, but interdependent, interact differently from event to event. Interplanetary coronal mass ejections (ICMEs) and corotating interaction regions (CIRs) are found to be the primary phenomena responsible for the main phase of geomagnetic storms. The other two mechanisms, i.e., HILDCAA (high-intensity, long-duration, continuous auroral electrojet activity) and the so-called Russell-McPherron effect, work to make the ICME and CIR phenomena more geoeffective. The solar cycle dependence of the various sources in creating magnetic storms has yet to be quantitatively understood. (2) A serious controversy exists as to whether the successive occurrence of intense substorms plays a direct role in the energization of ring current particles or whether the enhanced electric field associated with southward IMF enhances the effect of substorm expansions. While most of the Dst variance during magnetic storms can be solely reproduced by changes in the large-scale electric field in the solar wind and the residuals are uncorrelated with substorms, recent satellite observations of the ring current constituents during the main phase of magnetic storms show the importance of ionospheric ions. This implies that ionospheric ions, which are associated with the frequent occurrence of intense substorms, are accelerated upward along magnetic field lines, contributing to the energy density of the storm-time ring current. An apparently new controversy regarding the relative importance of the two processes is thus created. It is important to identify the role of substorm occurrence in the large-scale enhancement of magnetospheric convection driven by solar wind electric fields. (3) Numerical schemes for predicting geomagnetic activity indices on the basis of solar/solar wind/interplanetary magnetic field parameters continue to be upgraded, ensuring reliable techniques for forecasting magnetic storms under real-time conditions. There is a need to evaluate the prediction capability of geomagnetic indices on the basis of physical processes that occur during storm time substorms. (4) It is crucial to differentiate between storms and nonstorm time substorms in terms of energy transfer/conversion processes, i.e., mechanical energy from the solar wind, electromagnetic energy in the magnetotail, and again, mechanical energy of particles in the plasma sheet, ring current, and aurora. To help answer the question of the role of substorms in energizing ring current particles, it is crucial to find efficient magnetospheric processes that heat ions up to some minimal energies so that they can have an effect on the strength of the storm time ring current. (5) The question of whether the Dst index is an accurate and effective measure of the storm time ring current is also controversial. In particular, it is demonstrated that the dipolarization effect associated with substorm expansion acts to reduce the Dst magnitude, even though the ring current may still be growing.},
+year = {1998}
+}
+
+
+@article{Fiona2020,
+  author = "Fiona Simpson,Karsten Bahr",
+  title = "Estimating the electric field response to the Halloween 2003 and September 2017 magnetic storms across Scotland using observed geomagnetic fields, magnetotelluric impedances and perturbation tensors",
+  journal = "Journal of Space Weather and Space Climate",
+  year = "2020",
+  volume = "10",
+  number = "1",
+  pages = "48-",
+  url = "http://www.sciengine.com/publisher/EDP Sciences/journal/Journal of Space Weather and Space Climate/10/1/10.1051/swsc/2020049,
+  doi = "https://doi.org/10.1051/swsc/2020049"
+}
+
+@article{https://doi.org/10.1002/2015SW001279,
+author = {Kotzé, P. B. and Cilliers, P. J. and Sutcliffe, P. R.},
+title = {The role of SANSA's geomagnetic observation network in space weather monitoring: A review},
+journal = {Space Weather},
+volume = {13},
+number = {10},
+pages = {656-664},
+keywords = {geomagnetism, observatories, space weather},
+doi = {https://doi.org/10.1002/2015SW001279},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015SW001279},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015SW001279},
+abstract = {Abstract Geomagnetic observations play a crucial role in the monitoring of space weather events. In a modern society relying on the efficient functioning of its technology network such observations are important in order to determine the potential hazard for activities and infrastructure. Until recently, it was the perception that geomagnetic storms had no or very little adverse effect on radio communication and electric power infrastructure at middle- and low-latitude regions like southern Africa. The 2003 Halloween storm changed this perception. In this paper we discuss the role of the geomagnetic observation network operated by the South African National Space Agency (SANSA) in space weather monitoring. The primary objective is to describe the geomagnetic data sets available to characterize and monitor the various types of solar-driven disturbances, with the aim to better understand the physics of these processes in the near-Earth space environment and to provide relevant space weather monitoring and prediction.},
+year = {2015}
+}
+@article{Barbosa2015AnalysisOG,
+  title={Analysis of geomagnetically induced currents at a low-latitude region over the solar cycles 23 and 24: comparison between measurements and calculations},
+  author={Cleiton S. Barbosa and L. R. Alves and Ram{\'o}n Caraballo and Gelvam A. Hartmann and Andr{\'e}s R. R. Papa and Risto J. Pirjola},
+  journal={Journal of Space Weather and Space Climate},
+  year={2015},
+  volume={5}
+}
+@article{Torta2014AssessingTH,
+  title={Assessing the hazard from geomagnetically induced currents to the entire high-voltage power network in Spain},
+  author={Joan Miquel Torta and Santiago Marsal and Marta Quintana},
+  journal={Earth, Planets and Space},
+  year={2014},
+  volume={66},
+  pages={1-17}
+}
+
+@article{https://doi.org/10.1029/2012EO410020,
+author = {Schultz, Colin},
+title = {Solar storms can destabilize power grids at midlatitudes},
+journal = {Eos, Transactions American Geophysical Union},
+volume = {93},
+number = {41},
+pages = {412-412},
+keywords = {GICs, power networks, sudden impulse},
+doi = {https://doi.org/10.1029/2012EO410020},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2012EO410020},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2012EO410020},
+abstract = {The Sun is capable of disrupting electrical systems on Earth in a variety of ways, from solar flares and coronal mass ejections to proton storms. Typically, it is only objects far above the Earth's surface, or systems at high altitudes at polar latitudes that are considered at risk except during the most powerful storms. Notable recent examples include solar activity during March 1989 and October 2003 (the “Halloween Storms”), which knocked out power in Québec, Canada, and Sweden, respectively. Research by Marshall et al., however, found that even a moderate event can have destructive effects far from the typical regions of concern.},
+year = {2012}
+}
+@article{https://doi.org/10.1029/2008JA013132,
+author = {Villante, U. and Regi, M.},
+title = {Solar flare effect preceding Halloween storm (28 October 2003): Results of a worldwide analysis},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {113},
+number = {A3},
+pages = {},
+keywords = {solar flare effect, geomagnetic perturbations, ionospheric perturbations},
+doi = {https://doi.org/10.1029/2008JA013132},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2008JA013132},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008JA013132},
+abstract = {On 28 October 2003 an extreme solar flare with significant increases in the EUV and X-ray flux caused increased photoionization effects in the dayside ionosphere and determined a remarkable solar flare effect (SFE) manifestation that preceded Halloween storm. An analysis conducted at 53 stations revealed that the geomagnetic disturbance had greatest amplitude and longest duration at lowest latitudes in the dayside hemisphere, and its characteristics were basically controlled by the zenith angle of the observing stations. The aspects of the SFE onset and initial phase reveal a close correspondence with those of the EUV flux. At equatorial/electrojet latitudes, the SFE manifestation can be mostly interpreted in terms of a significant enhancement of the preflare current system during normal electrojet conditions, with some evidence for a highly confined counter electrojet in the dawn sector. Additional elements, at higher latitudes, might suggest in these regions a more significant role of the X-ray flux and the onset of additional currents below the normal dynamo current region.},
+year = {2008}
+}
+@article{https://doi.org/10.1029/2012SW000806,
+author = {Marshall, R. A. and Dalzell, M. and Waters, C. L. and Goldthorpe, P. and Smith, E. A.},
+title = {Geomagnetically induced currents in the New Zealand power network},
+journal = {Space Weather},
+volume = {10},
+number = {8},
+pages = {},
+keywords = {GICs, power networks, sudden impulse},
+doi = {https://doi.org/10.1029/2012SW000806},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2012SW000806},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2012SW000806},
+abstract = {Adverse space weather conditions have been shown to be directly responsible for faults within power networks at high latitudes. A number of studies have also shown space weather to impact power networks at lower latitudes, although most of these studies show increases in GIC activity within networks not directly related to hardware faults. This study examines a GIC event that occurred in New Zealand's South Island power network on 6th November 2001. A transformer failure that occurred during this day is shown to be associated with a change in the solar wind dynamic pressure of nearly 20 nPa. Measurements of GICs recorded on the neutral lines of transformers across the Transpower network during this event show good correlation with a GIC-index, a proxy for the geoelectric field that drives GIC. Comparison of this event with GIC activity observed in the Transpower network during large space weather storms such as the “2003 Halloween storm,” suggests that solar wind shocks and associated geomagnetic sudden impulse (SI) events may be as hazardous to middle latitude power networks as GIC activity occurring during the main phase of large storms. Further, this study suggests that the latitudinal dependence of the impacts of SI events on power systems differs from that observed during large main phase storms. This study also highlights the importance of operating procedures for large space weather events, even at middle latitude locations.},
+year = {2012}
+}
+
+@article{https://doi.org/10.1029/2006SW000272,
+author = {Tóth, Gábor and De Zeeuw, Darren L. and Gombosi, Tamas I. and Manchester, Ward B. and Ridley, Aaron J. and Sokolov, Igor V. and Roussev, Ilia I.},
+title = {Sun-to-thermosphere simulation of the 28–30 October 2003 storm with the Space Weather Modeling Framework},
+journal = {Space Weather},
+volume = {5},
+number = {6},
+pages = {},
+keywords = {Halloween Storm, simulation, space weather},
+doi = {https://doi.org/10.1029/2006SW000272},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006SW000272},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2006SW000272},
+abstract = {In late October and early November 2003 a series of some of the most powerful solar eruptions ever registered shook the heliosphere. These “Halloween storms” damaged 28 satellites, knocking two out of commission, diverted airplane routes, and caused power failures in Sweden, among other problems. This paper presents a 4-day end-to-end simulation of one of the major events (following the X17 flare) that produced the most geoeffective interval of the Halloween storm. The simulation was carried out with the newly developed Space Weather Modeling Framework (SWMF, see http://csem.engin.umich.edu/SWMF) that self-consistently couples physical domain models spanning from the solar corona to the upper atmosphere. The various attempts and iterations leading to the final simulation are also described. We briefly discuss the technological advances enabling the faster than real-time operation of the SWMF with the required high resolution. We compare the simulation results with observations from space- and ground-based measurements. We have also performed a reference magnetospheric simulation driven by ACE and Geotail observations and compared its results with the Sun-to-thermosphere simulation and the magnetospheric observations. The magnetic structure of the coronal mass ejection (CME) observed at the L1 point on the ACE spacecraft is not correctly reproduced because of the insufficient observations and theoretical understanding of the CME initiation mechanism. On the other hand, we find that the SWMF reasonably well reproduced both the hydrodynamic characteristics of the coronal mass ejection and some of the major indexes characterizing the strength of the geomagnetic storms.},
+year = {2007}
+}
+@article{Ebihara2021PredictionOG,
+  title={Prediction of geomagnetically induced currents (GICs) flowing in Japanese power grid for Carrington-class magnetic storms},
+  author={Yusuke Ebihara and Shin-ichi Watari and Sandeep Kumar},
+  journal={Earth, Planets and Space},
+  year={2021},
+  volume={73},
+  pages={1-10}
+}
